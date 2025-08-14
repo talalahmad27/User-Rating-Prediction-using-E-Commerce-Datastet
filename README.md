@@ -21,24 +21,24 @@ methodology** rather than reporting specific results.
 
 ### 1. Data Cleaning
 
--   Handled missing values and ensured consistency across features.\
--   Standardized column names and data formats.\
--   Removed duplicate and irrelevant entries.\
+-   Handled missing values and ensured consistency across features.
+-   Standardized column names and data formats.
+-   Removed duplicate and irrelevant entries.
 -   Ensured categorical and numerical features were properly encoded.
 
 ### 2. Outlier Analysis
 
 -   Identified unusual or extreme values using statistical and
-    visualization techniques.\
--   Evaluated the impact of outliers on model performance.\
+    visualization techniques.
+-   Evaluated the impact of outliers on model performance.
 -   Applied appropriate treatments (e.g., removal, capping, or
     transformation).
 
 ### 3. Model Development
 
--   Implemented baseline machine learning models for prediction.\
--   Performed feature engineering to capture patterns in the dataset.\
--   Applied normalization and scaling techniques where necessary.\
+-   Implemented baseline machine learning models for prediction.
+-   Performed feature engineering to capture patterns in the dataset.
+-   Applied normalization and scaling techniques where necessary.
 -   Structured the code for reproducibility and future experimentation.
 
 
